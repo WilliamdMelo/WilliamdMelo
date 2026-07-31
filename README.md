@@ -1,5 +1,9 @@
 ## Bem-vindo(a) ao perfil do William Melo 😁
 
+<p align="center">
+  <img src="./assets/profile-banner.png" width="100%" alt="William Melo Banner"/>
+</p>
+
  <div>
    <a href="https://github.com/WilliamdMelo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamdMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
