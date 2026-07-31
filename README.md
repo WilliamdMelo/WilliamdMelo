@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="William Melo Banner">
+  <img src="./assets/profile-banner.png" width="100%" alt="William Melo Banner">
 </p>
 
 <h1 align="center">William Melo</h1>
